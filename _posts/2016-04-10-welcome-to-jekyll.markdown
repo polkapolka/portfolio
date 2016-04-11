@@ -17,6 +17,6 @@ Finally I ran a `jekyll new portfolio` command.
 
 I customized the default website by re-writing the specifics of the relevant files and uploaded it to github pages for free hosting.
 
-Finally, when I uploaded it to github, the formatting was missing from the site.  The solution was to add the foldername to the value for baseurl in the _conf.yaml file.
+Finally, when I uploaded it to github, the formatting was missing from the site.  The solution was to add the foldername to the value for baseurl in the _config.yaml file.
 
 The plan for version three is to use a custom theme and to make some custom images, but for that I need to bribe some of my friends who can draw ;p.
